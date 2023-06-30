@@ -1,16 +1,9 @@
-# final_portfolio
+# Arghyadip's Portfolio
 
-A new Flutter project.
+A personal portfolio website listing my projects and tech stacks I know about.
 
-## Getting Started
+Entire frontend is build using Flutter. Also, several interactive animations have been added from rive.app
+For the Contact Me section form, Firebase Firestore Database has been integrated.
 
-This project is a starting point for a Flutter application.
+The site has been deployed live at -> https://arghya1912.github.io/arghyadip-portfolio/#/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
